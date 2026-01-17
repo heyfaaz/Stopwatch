@@ -18,7 +18,7 @@ This project runs entirely in the browser and can be used for timing tasks, exer
 ## Demo
 
 You can see the live version here:  
-[GitHub Pages URL] <!-- replace with your URL once deployed -->
+[(https://heyfaaz.github.io/Stopwatch/)] <!-- replace with your URL once deployed -->
 
 ---
 
@@ -27,4 +27,5 @@ You can see the live version here:
 1. Clone or download this repository:
 
 ```bash
-git clone https://github.com/yourusername/Heyfaaz-Stopwatch.git
+get clone https://github.com/heyfaaz/Stopwatch.git
+
